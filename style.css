@@ -1,0 +1,90 @@
+body{
+    background-color: #E7DFD8;
+}
+.post{
+    display: flex;
+    align-items: center;
+    gap: 107px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.post-button{
+    background-color:#B99FEA ;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 8px 16px;
+    border: 0px;
+}
+.one{
+    background-color: #B99FEA;
+    border-radius: 50%;
+    padding: 16px 25px;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px;
+}
+.post-title{
+    font-size: 50px;
+}
+.post1{
+    display: flex;
+    align-items: center;
+    gap: 107px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.post1-button{
+    background-color: #EBA789;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 8px 16px;
+    border: 0px;
+}
+.two{
+    background-color:#EBA789;
+    border-radius: 50%;
+    padding: 16px 25px;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px;
+}
+.post1-title{
+    font-size: 50px;
+}
+.post2{
+    display: flex;
+    align-items: center;
+    gap: 107px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+.post2-button{
+    background-color: #96DBC6;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 8px 16px;
+    border: 0px;
+}
+.three{
+    background-color:#96DBC6;
+    border-radius: 50%;
+    padding: 16px 25px;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px;
+}
+.post2-title{
+    font-size: 50px;
+}
